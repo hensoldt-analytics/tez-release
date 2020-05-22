@@ -30,7 +30,7 @@
     <webappDir>src/main/webapp</webappDir>
     <node.executable>${basedir}/src/main/webapp/node/node</node.executable>
     <nodeVersion>v5.7.1</nodeVersion>
-    <npmVersion>3.6.0</npmVersion>
+    <npmVersion>3.10.8</npmVersion>
     <node.download.location>http://nodejs.org/dist/</node.download.location>
     <skipTests>false</skipTests>
   </properties>
