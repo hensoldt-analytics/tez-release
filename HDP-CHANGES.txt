@@ -1,3 +1,4 @@
+  BUG-124940 TEZ-4251: Acquiring locks for getInputVertices and getOutputVertices is not consistent (Krisztian Kasa reviewed by Rajesh Balamohan)
   BUG-124258 TEZ-4049. Fix findbugs issues in NotRunningJob (Jonathan Eagles via kshukla)
   BUG-124258 TEZ-4035. Tez master breaks with YARN 3.2.0 ApplicationReport API change (jeagles)
   HOTFIX-2917 Delete ember generated bower dir on clean
